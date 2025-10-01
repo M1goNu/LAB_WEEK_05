@@ -1,4 +1,35 @@
-<img width="418" height="857" alt="Screenshot 2025-09-29 165200" src="https://github.com/user-attachments/assets/d00de377-a2d6-4542-bd0d-4527cef84eb6" />
-<img width="411" height="861" alt="Screenshot 2025-09-29 170000" src="https://github.com/user-attachments/assets/d1622b81-fb61-44d2-88fa-d153cf50965a" />
-<img width="403" height="860" alt="Screenshot 2025-09-29 171225" src="https://github.com/user-attachments/assets/c9243b65-5d4d-4205-bcfa-bbae7e04d3ee" />
-<img width="410" height="855" alt="Screenshot 2025-09-29 173159" src="https://github.com/user-attachments/assets/0d4e90a1-5afd-4d88-bcb5-a1807af3d4f5" />
+# Modul 05 Preview
+
+---
+
+<h3 align="center">Commit No.1 - Retrofit Setup and Fetch API JSON Response</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a05fa0d5-aa49-4e0d-8cd7-5a98ba0bb2a9" width="300"/>
+</p>
+
+---
+
+<h3 align="center">Commit No.2 - Parse JSON with Moshi and Display Image URL</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d1622b81-fb61-44d2-88fa-d153cf50965a" width="300"/>
+</p>
+
+---
+
+<h3 align="center">Commit No.3 - Load and Display Cat Image using Glide</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9243b65-5d4d-4205-bcfa-bbae7e04d3ee" width="300"/>
+</p>
+
+---
+
+<h3 align="center">Commit No.4 - Assignment</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d4e90a1-5afd-4d88-bcb5-a1807af3d4f5" width="300"/>
+</p>
+
+---
