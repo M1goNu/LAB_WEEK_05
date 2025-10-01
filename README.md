@@ -5,7 +5,8 @@
 <h3 align="center">Commit No.1 - Retrofit Setup and Fetch API JSON Response</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a05fa0d5-aa49-4e0d-8cd7-5a98ba0bb2a9" width="300"/>
+  <img src="https://github.com/user-attachments/assets/dced8039-5f23-44ed-ba26-9c6225536a13" width="300"/> 
+
 </p>
 
 ---
